@@ -1,4 +1,4 @@
-# DeepLearning-23.11
+# DeepLearning-2023.11
 
 ### 딥 러닝 강의
 - 신경망, FCN, CNN, RNN
